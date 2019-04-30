@@ -1,0 +1,88 @@
+
+body {
+background-image:url("../../Assets/Images/concrete_seamless.png");
+height: 100%;   
+}
+
+
+.navbar {
+    padding:0px;
+    background-color: #ffffff;
+    text-align: center;    
+}
+
+
+.navbar-brand {
+    padding: 20px;
+    margin: 0px;
+    width: 240px;
+    font-family: "georgia";
+    text-align: center;
+    color: white !important;
+    background-color: #4aaaa5;
+}
+
+
+.navbar-nav {
+    color: #777777 !important;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+
+.navbar-nav .nav-item:hover .nav-link {
+    color: #4aaaa5;
+}
+
+
+.main {
+    padding: 10px;   
+    padding: 10px;
+}
+
+
+#containerBox {
+    margin-top: 50px;
+    background-color: white;
+}
+
+
+#contactBox {
+    padding-top: 20px;
+    font-family: "georgia";
+    color: #4aaaa5;
+    background-color: white; 
+}
+
+
+#contactText {
+    font-size: 22px;
+}
+
+
+.form-group, #name, #email, #message {
+    color: #777777;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+
+.btn-primary {
+    color: white;
+    font-family: arial;
+    background-color: #4aaaa5 !important;
+    border: none;
+    margin-bottom: 20px;
+    font-size: 13px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+
+#sticky-footer {    
+    border-top: 8px solid #4aaaa5;
+    background-color: #666666 !important;
+    bottom: 0;
+    width: 100%;
+    color: #aaaaaa;
+  }

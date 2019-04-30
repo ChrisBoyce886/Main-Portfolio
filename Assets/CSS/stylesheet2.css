@@ -1,0 +1,104 @@
+body {
+background-image:url("../../Assets/Images/concrete_seamless.png");
+height: 100%;  
+overflow-y: overlay ;
+}
+
+
+.navbar {
+    padding:0px;
+    background-color: #ffffff;
+    text-align: center;    
+}
+
+
+.navbar-brand {
+    padding: 20px;
+    margin: 0px;
+    width: 240px;
+    font-family: "georgia";
+    text-align: center;
+    color: white !important;
+    background-color: #4aaaa5;
+}
+
+
+.navbar-nav {
+    color: #777777 !important;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+
+.navbar-nav .nav-item:hover .nav-link {
+    color: #4aaaa5;
+}
+
+
+.main {
+    margin-top: 50px;
+    padding: 10px;   
+}
+
+
+#containerBox {
+    background-color: white;
+}
+
+
+#portfolioBox {
+    padding-top: 20px;
+    font-family: "georgia";
+    color: #4aaaa5;
+    background-color: white;    
+}
+
+
+#portfolioText {
+    font-size: 22px;
+}
+
+
+.row, .col-lg-4 {
+    margin-bottom: 15px;
+}
+
+
+.card {
+    width: 100%;
+    border: none;
+}
+
+
+.card-img-top {
+    width:100%;
+    height: 35vh;    
+}
+
+
+.card-body {
+    background-color: #4aaaa5;
+}
+
+
+.card-text {
+    color: white;
+    font-family: "georgia";
+    font-size: 120%;
+    text-align: center;
+}
+
+
+a.card-text:hover {
+    color: #777777;
+    text-decoration: none;
+}
+
+
+#sticky-footer {    
+    border-top: 8px solid #4aaaa5;
+    background-color: #666666 !important;
+    bottom: 0;
+    width: 100%;
+    color: #aaaaaa;
+  }
