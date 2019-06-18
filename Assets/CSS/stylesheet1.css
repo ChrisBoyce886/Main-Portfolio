@@ -1,4 +1,8 @@
 
+html {
+    overflow-y: scroll;
+  }
+
 body {
 background-image:url("../../Assets/Images/concrete_seamless.png");
 height: 100%;   
@@ -84,6 +88,28 @@ height: 100%;
 #text {
     color: #777777; 
     font-family: Arial;
+}
+
+#biolinks {
+    text-align: center;
+}
+
+#resume {
+    color: #777777;
+    margin-right: 80px;
+}
+
+#resume:hover {
+    color: #4aaaa5;
+}
+
+#linkedin {
+    color: #777777;
+    margin-right: 80px;
+}
+
+#linkedin:hover {
+    color: #4aaaa5;
 }
 
 

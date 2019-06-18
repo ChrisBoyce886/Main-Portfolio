@@ -1,4 +1,8 @@
 
+html {
+    overflow-y: scroll;
+  }
+
 body {
 background-image:url("../../Assets/Images/concrete_seamless.png");
 height: 100%;   
@@ -43,6 +47,7 @@ height: 100%;
 
 #containerBox {
     margin-top: 50px;
+    margin-bottom: 80px;
     background-color: white;
 }
 
@@ -51,7 +56,17 @@ height: 100%;
     padding-top: 20px;
     font-family: "georgia";
     color: #4aaaa5;
+    background-color: white;     
+}
+
+#contactBox2 {
+    font-family: "georgia";
+    color: #777777;
     background-color: white; 
+}
+
+#bold {
+     color: #4aaaa5;
 }
 
 
