@@ -7,10 +7,10 @@ I am an entry-level Full Stack Software Developer, currently enrolled at UNC's F
 ## Projects
 Click each project below to view its Github repo.  
 * [Project 1 - Squad Finder](https://github.com/ChrisBoyce886/SQUAD-FINDER)
-* [Project 2 - Armchair Fantasy League](https://github.com/ChrisBoyce886/ArmChair_Fantasy_Football/blob/master/README%20-%20Project%20Requirements.md)
+* [Project 2 - Armchair Fantasy League](https://github.com/ChrisBoyce886/ArmChair_Fantasy_Football)
 * [Hangman](https://github.com/ChrisBoyce886/Word-Guess-Game)
-* [Crystal Collector](https://github.com/ChrisBoyce886/Crystal-Collector-Game/blob/master/README.md)
-* [Deep Space Trivia](https://github.com/ChrisBoyce886/TriviaGame/blob/master/README.md)
+* [Crystal Collector](https://github.com/ChrisBoyce886/Crystal-Collector-Game)
+* [Deep Space Trivia](https://github.com/ChrisBoyce886/TriviaGame)
 
 
 ## Built With
