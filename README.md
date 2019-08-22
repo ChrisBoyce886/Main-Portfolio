@@ -11,6 +11,7 @@ Click each project below to view its Github repo.
 * [Hangman](https://github.com/ChrisBoyce886/Word-Guess-Game)
 * [Crystal Collector](https://github.com/ChrisBoyce886/Crystal-Collector-Game)
 * [Deep Space Trivia](https://github.com/ChrisBoyce886/TriviaGame)
+* [GIF-Tastic](https://github.com/ChrisBoyce886/Gif-Tastic)
 
 
 ## Portfolio Built With
